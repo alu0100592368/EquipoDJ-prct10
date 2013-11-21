@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Matrixlpp::VERSION
   spec.authors       = ["Javier Mena"]
   spec.email         = ["alu0100454741@ull.edu.es"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Es una gema que tiene dos tipos de matrices Dispersas y Densas}
+  spec.summary       = %q{Multiplicacio de Matrices, Suma de matrices y demas cosas}
   spec.homepage      = ""
   spec.license       = "MIT"
 
