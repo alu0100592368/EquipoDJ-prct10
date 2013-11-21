@@ -1,9 +1,4 @@
 source 'https://rubygems.org'
 
-
+# Specify your gem's dependencies in matrix-lpp.gemspec
 gemspec
-gem 'rspec'
-gem 'rake'
-gem 'guard-rspec'
-gem 'guard-bundler'
-
